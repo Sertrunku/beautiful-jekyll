@@ -13,12 +13,12 @@ facebook:
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/Sertrunku"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/"
+  baseURL: "https://twitter.com/marioanogueira"
   icon: "fa-twitter"
 
 reddit:
